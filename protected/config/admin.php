@@ -32,10 +32,6 @@ return CMap::mergeArray(
 		),
 		
 		'defaultController'=>'admin/default/index',
-		
-		/*'sourceLanguage' => 'en-en',			
-		'language' => 'en',
-		*/
 	)
 );
 ?>
