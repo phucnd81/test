@@ -20,11 +20,6 @@ return CMap::mergeArray(
 				),
 			),
 				
-			/*
-			'errorHandler'=>array(
-				'errorAction'=>'auth/default/error',
-			),
-			*/	
 		),
 		
 		'modules'=>array(
